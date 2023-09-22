@@ -1,4 +1,4 @@
-package DesafiodeProjeto;
+package one.digitalinnovetion.gof.DesafiodeProjetoSingleton;
 /**
  * Singleton "aprssado"
  * 
